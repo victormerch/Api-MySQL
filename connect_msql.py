@@ -9,8 +9,8 @@ class ConnectMySQL:
     
     def __init__(self) -> None:
         DATABASE_HOST='gcp.connect.psdb.cloud'
-        DATABASE_USERNAME='uue480vr7f5qz4r2a07p'
-        DATABASE_PASSWORD='pscale_pw_fJYl35GzlyTWMzMrGEeQTDL1fMfA3pQQdWWxCqfvUSH'
+        DATABASE_USERNAME='s0uhi4mflymikk00pxy3'
+        DATABASE_PASSWORD='pscale_pw_zBw2Fja9fb8oL0PxaHOG0uVLuPKVs6wTXMN1WNI0v5J'
         DATABASE='fitness_notes'
 
         # Connect to the database
